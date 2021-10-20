@@ -19,10 +19,6 @@ function [modulusE] = elasticity(beamProperties)
 %   Variables:
 %       modulusE -      Modulus of elasticity of materials.
 
-% Rishi Zaveri
-% University of Alabama at Birmingham
-% Dr. Conner
-% Beam Deflection Group Project w/ Jack Chamberlain and Mikayla Tuma
 
 % Error Handling
 % Function must be given at least one input argument.
