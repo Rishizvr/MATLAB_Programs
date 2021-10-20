@@ -20,10 +20,6 @@ function [beamDeflection,xPos] = deflection(beamProperties)
 %       xPos -      Row vector of 50 equally spaced distance values ranging
 %                   from 0 to the total length of the beam
 
-% Rishi Zaveri
-% University of Alabama at Birmingham
-% Dr. Conner
-% Beam Deflection Group Project w/ Jack Chamberlain and Mikayla Tuma
 
 
 % Error Handling
