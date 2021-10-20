@@ -1,6 +1,5 @@
 %% FileName: Visualizing Data
 % Name: Rishi Zaveri
-% University of Alabama at Birmingham
 % Date: 26 June 2018
 % Last Revised: 27 June 2018
 
