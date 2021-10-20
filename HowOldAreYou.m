@@ -1,9 +1,6 @@
 % Filename:  HowOldAreYou.m
 %--------------------------------------------------------------------------
 % Your Name:
-% Computer Methods in Engineering
-% University of Alabama at Birmingham
-% Dr. Conner
 %
 % Start Date: 6/12/2018
 % Last Revised On: 6/12/2018
