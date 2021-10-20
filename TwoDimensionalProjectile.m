@@ -1,7 +1,6 @@
 %% FileName: TwoDimensionalProjectile
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Name: Rishi Zaveri
-% University of Alabama at Birmingham
 % Date: 9 July 2018
 % Last Revised: 10 July 2018
 %
