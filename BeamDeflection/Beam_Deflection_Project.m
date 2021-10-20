@@ -1,13 +1,6 @@
 % File Name: Beam_Deflection_Project.m
 %--------------------------------------------------------------------------
-% Script: Jack Chamberlain
-% Functions [inertia, plotDeflection]: Mikayla Tuma
-% Functions [elasticity, deflection]: Rishi Zaveri
 %
-% EGR 150-OY
-% UAB
-% Dr. Conner
-% Beam Deflection Project with Rishi Zaveri and Mikayla Tuma
 % Group 4
 % Start Date: 20180713
 % Last Revised on: 20180719
