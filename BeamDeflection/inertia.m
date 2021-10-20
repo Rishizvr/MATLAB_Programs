@@ -25,10 +25,7 @@ function beamPropertiesI= inertia(beamProperties)
 
 
 %
-%   Mikayla Tuma 
-%   University of Alabama at Birmingham 
-%   Engineering Computations with MATLAB
-%   Dr. Mark Conner
+%   MT
 
 %
 %   Start Date: Jul 12, 2018
